@@ -1,5 +1,7 @@
 fun main(args: Array<String>) {
     //Златопольский, 1400 задач по программированию, задача: 2.34
+
+
     val v1: Int //data input from user
     val v2: Int //data input from user
     val s: Int //data input from user
@@ -17,13 +19,13 @@ fun main(args: Array<String>) {
     val vSblijenia = v1 + v2
     t = s / vSblijenia
 */
-
+//Solve this task with function
 //meetingTimeCars()
 
 
 //попробую сначало решить задачку без фунции потом напишу функцию.
 
-    println("The time, when the cars will meeting: ${t} ")
+//    println("The time, when the cars will meeting: ${t} ")
 
 
 }
