@@ -7,6 +7,9 @@ fun main(args: Array<String>) {
     val s: Int //data input from user
     val t: Int //calc value
 
+    //Solve this task with function
+    //meetingTimeCars()
+
     // Read the input value.
 /*
     println("Hello, enter V1: ")
@@ -19,8 +22,7 @@ fun main(args: Array<String>) {
     val vSblijenia = v1 + v2
     t = s / vSblijenia
 */
-//Solve this task with function
-//meetingTimeCars()
+
 
 
 //попробую сначало решить задачку без фунции потом напишу функцию.
