@@ -6,6 +6,7 @@ fun main(args: Array<String>) {
     val t: Int //calc value
 
     // Read the input value.
+/*
     println("Hello, enter V1: ")
      v1 = readLine()!!.toInt()
     println("Please, enter V2: ")
@@ -15,6 +16,9 @@ fun main(args: Array<String>) {
 
     val vSblijenia = v1 + v2
     t = s / vSblijenia
+*/
+
+//meetingTimeCars()
 
 
 //попробую сначало решить задачку без фунции потом напишу функцию.
